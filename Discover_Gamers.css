@@ -1,0 +1,1801 @@
+.mediaViewInfo {
+	--web-view-name: Discover Gamers;
+	--web-view-id: Discover_Gamers;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Discover_Gamers;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Discover_Gamers {
+	position: absolute;
+	width: 1920px;
+	height: 1646px;
+	background-color: rgba(101,97,125,1);
+	overflow: hidden;
+	--web-view-name: Discover Gamers;
+	--web-view-id: Discover_Gamers;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Discover_Gamers_to_Invest_in {
+	position: absolute;
+	left: 87px;
+	top: 152px;
+	overflow: visible;
+	width: 643px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(234,234,234,1);
+}
+#Input___Error_Message {
+	position: absolute;
+	width: 351px;
+	height: 49px;
+	left: 785px;
+	top: 159px;
+	overflow: visible;
+}
+.Rectangle_134 {
+	position: absolute;
+	overflow: visible;
+	width: 351px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Type_in_to_search {
+	position: absolute;
+	left: 56px;
+	top: 15px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(101,97,125,1);
+}
+#Search {
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: 805px;
+	top: 172px;
+	overflow: visible;
+}
+.Rectangle_176 {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+}
+.Path_99 {
+	overflow: visible;
+	position: absolute;
+	width: 22.9px;
+	height: 22.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Name {
+	position: absolute;
+	left: 122px;
+	top: 285px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(234,234,234,1);
+}
+#Description {
+	position: absolute;
+	left: 778px;
+	top: 285px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(234,234,234,1);
+}
+#Score {
+	position: absolute;
+	left: 1193px;
+	top: 285px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(234,234,234,1);
+}
+#Loan_Amount {
+	position: absolute;
+	left: 1426px;
+	top: 285px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(234,234,234,1);
+}
+#Funding_Status {
+	position: absolute;
+	left: 447px;
+	top: 285px;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(234,234,234,1);
+}
+#Group_89 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 335px;
+	overflow: visible;
+}
+.Rectangle_1098 {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40 {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000 {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00 {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for____ {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+
+#Button_CTA_kl {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_km {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_kn {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_444 {
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Browse_Gamer_to_Invest.html;
+	cursor: pointer;
+}
+#Group_90 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 465px;
+	overflow: visible;
+}
+.Rectangle_1098_kp {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog_kq {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar_kr {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40_ks {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_kt {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded_ku {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000_kv {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00_kw {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for_____kx {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Button_CTA_k {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_k {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_la {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_k {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_k {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_la {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_91 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 595px;
+	overflow: visible;
+}
+.Rectangle_1098_k {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog_k {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar_k {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40_k {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_k {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded_la {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000_lb {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00_lc {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for_____ld {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Button_CTA_lh {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_li {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_lj {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_lh {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_li {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_lj {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_92 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 725px;
+	overflow: visible;
+}
+.Rectangle_1098_ll {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog_lm {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar_ln {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40_lo {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_lp {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded_lq {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000_lr {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00_ls {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for_____lt {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Button_CTA_lx {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_ly {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_lz {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_lx {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_ly {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_lz {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_93 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 855px;
+	overflow: visible;
+}
+.Rectangle_1098_l {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog_l {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar_l {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40_l {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_l {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded_l {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000_l {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00_l {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for_____l {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Button_CTA_md {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_me {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_mf {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_md {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_me {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_mf {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_94 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 985px;
+	overflow: visible;
+}
+.Rectangle_1098_mh {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog_mi {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar_mj {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40_mk {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_ml {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded_mm {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000_mn {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00_mo {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for_____mp {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Button_CTA_mt {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_mu {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_mv {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_mt {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_mu {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_mv {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_95 {
+	position: absolute;
+	width: 1766px;
+	height: 105px;
+	left: 77px;
+	top: 1115px;
+	overflow: visible;
+}
+.Rectangle_1098_mx {
+	position: absolute;
+	overflow: visible;
+	width: 1766px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mulog_my {
+	position: absolute;
+	left: 137px;
+	top: 37px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Avatar_mz {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 45px;
+	top: 17px;
+	overflow: visible;
+}
+.Ellipse_40_m {
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_m {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 24px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID65__Funded_m {
+	position: absolute;
+	left: 386px;
+	top: 36px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#ID780_1000_m {
+	position: absolute;
+	left: 1116px;
+	top: 36px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#_450_00_m {
+	position: absolute;
+	left: 1349px;
+	top: 36px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Canon_XX_camera_for_____m {
+	position: absolute;
+	left: 701px;
+	top: 36px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(99,99,99,1);
+}
+#Button_CTA_na {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_na {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_nb {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_na {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1581px;
+	top: 23px;
+	overflow: visible;
+}
+.Rectangle_1090_na {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest_nb {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_13 {
+	position: absolute;
+	width: 210px;
+	height: 49px;
+	left: 1158px;
+	top: 159px;
+	overflow: visible;
+}
+#Button_CTA_nd {
+	position: absolute;
+	width: 210px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_217 {
+	overflow: visible;
+	position: absolute;
+	width: 210px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Filter_by_Game {
+	position: absolute;
+	left: 55px;
+	top: 14px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Menu {
+	position: absolute;
+	width: 21px;
+	height: 19px;
+	left: 12px;
+	top: 15px;
+	overflow: visible;
+}
+.Menu_nh {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Footer_1 {
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 1340px;
+	overflow: visible;
+}
+.Base {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CONTACT_US {
+	position: absolute;
+	left: 77px;
+	top: 69px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#_44_345_678_903_adobexd_mail_c {
+	position: absolute;
+	left: 285px;
+	top: 69px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SERVICES {
+	position: absolute;
+	left: 542px;
+	top: 70px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_Ordering___Payment_ {
+	position: absolute;
+	left: 723px;
+	top: 69px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#INFORMATION {
+	position: absolute;
+	left: 984px;
+	top: 69px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Work_With_US_Privacy_Policy_Te {
+	position: absolute;
+	left: 1203px;
+	top: 63px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#social {
+	position: absolute;
+	width: 262px;
+	height: 137px;
+	left: 1608px;
+	top: 63px;
+	overflow: visible;
+}
+#Symbol_11___1 {
+	position: absolute;
+	width: 47.909px;
+	height: 52px;
+	left: 214.091px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 52px;
+	left: 12.909px;
+	top: 0px;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 26.613px;
+	height: 50.961px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_12___1 {
+	position: absolute;
+	width: 62px;
+	height: 137px;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_393 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 137px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 60.534px;
+	height: 49.1px;
+	left: 0px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_13___1 {
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+.topnav {
+	position: absolute;
+	width: 351px;
+	height: 70px;
+	left: 785px;
+	top: 151px;
+	overflow: visible;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  font-size: 17px;
+	height: 49px;
+	overflow: visible;
+}
+
+.topnav .search-container button {
+  float: right;
+	width: 49px;
+	height: 49px;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+	overflow: visible;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
+
+#Group_46 {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Navigation_Bar {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Base_n {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BORROW {
+	position: absolute;
+	left: 349px;
+	top: 35px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#INVEST {
+	position: absolute;
+	left: 484px;
+	top: 35px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#REFER {
+	position: absolute;
+	left: 749px;
+	top: 35px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#DISCOVER {
+	position: absolute;
+	left: 606px;
+	top: 35px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Symbol_12___3 {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 1617px;
+	top: 37px;
+	overflow: visible;
+}
+.Rectangle_393_n {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 0px;
+}
+#Group_45 {
+	position: absolute;
+	width: 241px;
+	height: 70px;
+	left: 40px;
+	top: 13px;
+	overflow: visible;
+}
+#Group_18 {
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 70px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_212 {
+	overflow: visible;
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MOOLAH {
+	position: absolute;
+	left: 19px;
+	top: 9px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#logo_FINAL {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 118px;
+	height: 47px;
+	left: 1752px;
+	top: 25px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.604));
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1104 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#LOG_IN {
+	position: absolute;
+	left: 25px;
+	top: 13px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}

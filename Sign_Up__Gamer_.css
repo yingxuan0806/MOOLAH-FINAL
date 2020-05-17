@@ -1,0 +1,1262 @@
+.mediaViewInfo {
+	--web-view-name: Sign Up (Gamer);
+	--web-view-id: Sign_Up__Gamer_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Sign_Up__Gamer_;
+}
+
+input[type=text] {
+	border: 1px solid rgba(234,234,234,1);
+	border-radius: 10px;
+	background-color: #EAEAEA;
+	margin-left: 10px;
+	width: 350px;
+	outline: none;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sign_Up__Gamer_ {
+	position: absolute;
+	width: 1920px;
+	height: 2318px;
+	background-color: rgba(101,97,125,1);
+	overflow: hidden;
+	--web-view-name: Sign Up (Gamer);
+	--web-view-id: Sign_Up__Gamer_;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_91 {
+	position: absolute;
+	overflow: visible;
+	width: 641px;
+	height: 1705px;
+	left: 709px;
+	top: 183px;
+}
+#Group_8 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 431px;
+	overflow: visible;
+}
+.Path_198 {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199 {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Full_Name_as_in_IC___Passport {
+	position: absolute;
+	left: 20px;
+	top: 17px;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_8_cc {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 501px;
+	overflow: visible;
+}
+.Path_198_cd {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_ce {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_cf {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Email {
+	position: absolute;
+	left: 20px;
+	top: 17px;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_8_ch {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 571px;
+	overflow: visible;
+}
+.Path_198_ci {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_cj {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_ck {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Password {
+	position: absolute;
+	left: 20px;
+	top: 17px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_8_cm {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 641px;
+	overflow: visible;
+}
+.Path_198_cn {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_co {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_cp {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Re_enter_password {
+	position: absolute;
+	left: 20px;
+	top: 17px;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_8_cr {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 711px;
+	overflow: visible;
+}
+.Path_198_cs {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_ct {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_cu {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_number {
+	position: absolute;
+	left: 20px;
+	top: 17px;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+.Path_209 {
+	overflow: visible;
+	position: absolute;
+	width: 616.378px;
+	height: 1px;
+	left: 721.048px;
+	top: 300.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Button_CTA {
+	position: absolute;
+	width: 216px;
+	height: 45px;
+	left: 922px;
+	top: 1763px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Profile_Page__Gamer_.html;
+	cursor: pointer;
+}
+.Rectangle_1090 {
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	height: 45px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_Up {
+	position: absolute;
+	left: 70px;
+	top: 11px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_c {
+	position: absolute;
+	width: 121px;
+	height: 45px;
+	left: 1175px;
+	top: 224px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login.html;
+	cursor: pointer;
+}
+.Path_219 {
+	overflow: visible;
+	position: absolute;
+	width: 121px;
+	height: 45px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Log_in {
+	position: absolute;
+	left: 32px;
+	top: 11px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(255,255,255,1);
+}
+#Already_have_an_account_ {
+	position: absolute;
+	left: 749px;
+	top: 235px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(101,97,125,1);
+}
+#Sign_up__Become_the_next_Shrou {
+	position: absolute;
+	left: 806px;
+	top: 344px;
+	overflow: visible;
+	width: 450px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(101,97,125,1);
+}
+#Group_33 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 861px;
+	overflow: visible;
+}
+.Path_198_c {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_c {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_c {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Enter_the_game_you_play {
+	position: absolute;
+	left: 104px;
+	top: 17px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_34 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 931px;
+	overflow: visible;
+}
+.Path_198_db {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_dc {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_dd {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#IGN {
+	position: absolute;
+	left: 168px;
+	top: 17px;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_35 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 1001px;
+	overflow: visible;
+}
+.Path_198_dg {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_dh {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_di {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#YouTube_username {
+	position: absolute;
+	left: 120px;
+	top: 17px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_36 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 1071px;
+	overflow: visible;
+}
+.Path_198_dl {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_dm {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_dn {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Twitch_username {
+	position: absolute;
+	left: 127px;
+	top: 17px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_37 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 1141px;
+	overflow: visible;
+}
+.Path_198_dq {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_dr {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_ds {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Instagram_username {
+	position: absolute;
+	left: 116px;
+	top: 17px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_38 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 1352px;
+	overflow: visible;
+}
+#Group_7_dv {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_dw {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Upload_NRIC_front {
+	position: absolute;
+	left: 123px;
+	top: 17px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_99 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 1282px;
+	overflow: visible;
+}
+#Group_7_dz {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_d {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Enter_your_NRIC {
+	position: absolute;
+	left: 129px;
+	top: 17px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_39 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 850px;
+	top: 1422px;
+	overflow: visible;
+}
+.Path_198_d {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_d {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_ea {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Upload_NRIC_back {
+	position: absolute;
+	left: 122px;
+	top: 17px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_40 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 851px;
+	top: 1492px;
+	overflow: visible;
+}
+.Path_198_ea {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_ea {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_eb {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Upload_income_statement {
+	position: absolute;
+	left: 101px;
+	top: 17px;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Group_41 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 851px;
+	top: 1562px;
+	overflow: visible;
+}
+.Path_198_ed {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7_ee {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_199_ef {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Upload_loan_history__If_any_ {
+	position: absolute;
+	left: 97px;
+	top: 17px;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(101,97,125,1);
+}
+#Note__It_will_take_a_few_days_ {
+	position: absolute;
+	left: 812px;
+	top: 1682px;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(101,97,125,1);
+}
+#Group_74 {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_67 {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Navigation_Bar {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Base {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BORROW {
+	position: absolute;
+	left: 349px;
+	top: 41px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#INVEST {
+	position: absolute;
+	left: 484px;
+	top: 41px;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#REFER {
+	position: absolute;
+	left: 749px;
+	top: 41px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#DISCOVER {
+	position: absolute;
+	left: 606px;
+	top: 41px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Symbol_12___3 {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 1617px;
+	top: 37px;
+	overflow: visible;
+}
+.Rectangle_393 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 0px;
+}
+#Group_45 {
+	position: absolute;
+	width: 241px;
+	height: 70px;
+	left: 40px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Group_18 {
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 70px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_212 {
+	overflow: visible;
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MOOLAH {
+	position: absolute;
+	left: 19px;
+	top: 9px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#logo_FINAL {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_57 {
+	position: absolute;
+	width: 118px;
+	height: 47px;
+	left: 1752px;
+	top: 25px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login.html;
+	cursor: pointer;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1104 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#LOG_IN {
+	position: absolute;
+	left: 25px;
+	top: 13px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#Footer_1 {
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 2012px;
+	overflow: visible;
+}
+.Base_e {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CONTACT_US {
+	position: absolute;
+	left: 77px;
+	top: 69px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#_44_345_678_903_adobexd_mail_c {
+	position: absolute;
+	left: 285px;
+	top: 69px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SERVICES {
+	position: absolute;
+	left: 542px;
+	top: 70px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_Ordering___Payment_ {
+	position: absolute;
+	left: 723px;
+	top: 69px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#INFORMATION {
+	position: absolute;
+	left: 984px;
+	top: 69px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Work_With_US_Privacy_Policy_Te {
+	position: absolute;
+	left: 1203px;
+	top: 63px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#social {
+	position: absolute;
+	width: 262px;
+	height: 137px;
+	left: 1608px;
+	top: 63px;
+	overflow: visible;
+}
+#Symbol_11___1 {
+	position: absolute;
+	width: 47.909px;
+	height: 52px;
+	left: 214.091px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 52px;
+	left: 12.909px;
+	top: 0px;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 26.613px;
+	height: 50.961px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_12___1 {
+	position: absolute;
+	width: 62px;
+	height: 137px;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_393_fe {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 137px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 60.534px;
+	height: 49.1px;
+	left: 0px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_13___1 {
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}

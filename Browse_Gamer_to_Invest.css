@@ -1,0 +1,1441 @@
+.mediaViewInfo {
+	--web-view-name: Browse Gamer to Invest;
+	--web-view-id: Browse_Gamer_to_Invest;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Browse_Gamer_to_Invest;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Browse_Gamer_to_Invest {
+	position: absolute;
+	width: 1920px;
+	height: 2440px;
+	background-color: rgba(101,97,125,1);
+	overflow: hidden;
+	--web-view-name: Browse Gamer to Invest;
+	--web-view-id: Browse_Gamer_to_Invest;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Avatar {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 202px;
+	top: 385px;
+	overflow: visible;
+}
+.Ellipse_40 {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12 {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mulog__David_Fan_ {
+	position: absolute;
+	left: 465px;
+	top: 427px;
+	overflow: visible;
+	width: 412px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(234,234,234,1);
+}
+#League_of_Legends {
+	position: absolute;
+	left: 465px;
+	top: 496px;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(234,234,234,1);
+}
+#Credit_Score__780 {
+	position: absolute;
+	left: 1424px;
+	top: 431px;
+	overflow: visible;
+	width: 273px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(234,234,234,1);
+}
+.Path_209 {
+	overflow: visible;
+	position: absolute;
+	width: 1921.568px;
+	height: 1px;
+	left: 0px;
+	top: 696.581px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_210 {
+	overflow: visible;
+	position: absolute;
+	width: 1921.568px;
+	height: 1px;
+	left: 0px;
+	top: 1140.581px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_220 {
+	overflow: visible;
+	position: absolute;
+	width: 1921.568px;
+	height: 1px;
+	left: 0px;
+	top: 1633.581px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_12 {
+	position: absolute;
+	width: 402px;
+	height: 296px;
+	left: 227px;
+	top: 753px;
+	overflow: visible;
+}
+.Rectangle_1092 {
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 264px;
+	left: 0px;
+	top: 32px;
+}
+#Background_bars {
+	position: absolute;
+	width: 337px;
+	height: 251px;
+	left: 32px;
+	top: 0px;
+	overflow: hidden;
+}
+#Background_bars_0 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093 {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_1 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 43px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbl {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_2 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 86px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbn {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_3 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 129px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbp {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_4 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 172px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbr {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_5 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 215px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbt {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_6 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 258px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbv {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_7 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 301px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bbx {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+.Main_Bar_bbz {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 122px;
+	left: 290px;
+	top: 129px;
+}
+.Main_Bar_bca {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 103px;
+	left: 247px;
+	top: 148px;
+}
+.Main_Bar_bcc {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 87px;
+	left: 204px;
+	top: 164px;
+}
+.Main_Bar_bce {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 109px;
+	left: 161px;
+	top: 142px;
+}
+.Main_Bar_bcg {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 60px;
+	left: 118px;
+	top: 191px;
+}
+.Main_Bar_bci {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 45px;
+	left: 75px;
+	top: 206px;
+}
+.Main_Bar_bck {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 39px;
+	left: 32px;
+	top: 212px;
+}
+.Main_Bar_bcm {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 113px;
+	left: 333px;
+	top: 138px;
+}
+#Group_11 {
+	position: absolute;
+	width: 402px;
+	height: 296px;
+	left: 759px;
+	top: 753px;
+	overflow: visible;
+}
+.Rectangle_1094 {
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 264px;
+	left: 0px;
+	top: 32px;
+}
+#Background_bars_bcg {
+	position: absolute;
+	width: 337px;
+	height: 251px;
+	left: 32px;
+	top: 0px;
+	overflow: hidden;
+}
+#Background_bars_bcg_0 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bci {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_1 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 43px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bck {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_2 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 86px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bcm {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_3 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 129px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bco {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_4 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 172px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bcq {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_5 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 215px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bcs {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_6 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 258px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bcu {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bcg_7 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 301px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bcw {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+.Main_Bar_bcy {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 87px;
+	left: 290px;
+	top: 164px;
+}
+.Main_Bar_bc {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 57px;
+	left: 247px;
+	top: 194px;
+}
+.Main_Bar_bdb {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 39px;
+	left: 204px;
+	top: 212px;
+}
+.Main_Bar_bdd {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 44px;
+	left: 161px;
+	top: 207px;
+}
+.Main_Bar_bdf {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 39px;
+	left: 118px;
+	top: 212px;
+}
+.Main_Bar_bdh {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 30px;
+	left: 75px;
+	top: 221px;
+}
+.Main_Bar_bdj {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 20px;
+	left: 32px;
+	top: 231px;
+}
+.Main_Bar_bdl {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 103px;
+	left: 333px;
+	top: 148px;
+}
+#Group_10 {
+	position: absolute;
+	width: 402px;
+	height: 296px;
+	left: 1291px;
+	top: 753px;
+	overflow: visible;
+}
+.Rectangle_1095 {
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 264px;
+	left: 0px;
+	top: 32px;
+}
+#Background_bars_bdf {
+	position: absolute;
+	width: 337px;
+	height: 251px;
+	left: 32px;
+	top: 0px;
+	overflow: hidden;
+}
+#Background_bars_bdf_0 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdh {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_1 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 43px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdj {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_2 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 86px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdl {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_3 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 129px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdn {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_4 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 172px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdp {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_5 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 215px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdr {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_6 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 258px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdt {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+#Background_bars_bdf_7 {
+	position: absolute;
+	width: 23px;
+	height: 189px;
+	left: 301px;
+	top: 62px;
+	overflow: visible;
+}
+.Rectangle_1093_bdv {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 189px;
+	left: 0px;
+	top: 0px;
+}
+.Main_Bar_bdx {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 122px;
+	left: 290px;
+	top: 129px;
+}
+.Main_Bar_bdz {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 103px;
+	left: 247px;
+	top: 148px;
+}
+.Main_Bar_bea {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 87px;
+	left: 204px;
+	top: 164px;
+}
+.Main_Bar_bec {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 109px;
+	left: 161px;
+	top: 142px;
+}
+.Main_Bar_bee {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 60px;
+	left: 118px;
+	top: 191px;
+}
+.Main_Bar_beg {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 45px;
+	left: 75px;
+	top: 206px;
+}
+.Main_Bar_bei {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 39px;
+	left: 32px;
+	top: 212px;
+}
+.Main_Bar_bek {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 113px;
+	left: 333px;
+	top: 138px;
+}
+#Statistics {
+	position: absolute;
+	left: 230px;
+	top: 637px;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(234,234,234,1);
+}
+#Wishlist {
+	position: absolute;
+	left: 230px;
+	top: 1161px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(234,234,234,1);
+}
+#Investors {
+	position: absolute;
+	left: 230px;
+	top: 1654px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(234,234,234,1);
+}
+#Twitch_Viewership {
+	position: absolute;
+	left: 348px;
+	top: 1062px;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#Average_20__growth___month {
+	position: absolute;
+	left: 299px;
+	top: 753px;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#Average_20__growth___month_beh {
+	position: absolute;
+	left: 831px;
+	top: 753px;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#Average_20__growth___month_bei {
+	position: absolute;
+	left: 1363px;
+	top: 753px;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#Youtube_Viewership {
+	position: absolute;
+	left: 872px;
+	top: 1062px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#Instagram_Followers {
+	position: absolute;
+	left: 1402px;
+	top: 1062px;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+.Rectangle_72 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 230px;
+	top: 1234px;
+}
+.Rectangle_1102 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 238px;
+	left: 0px;
+	top: 96px;
+}
+#Banner {
+	position: absolute;
+	left: 879px;
+	top: 187px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(99,99,99,1);
+}
+.Path_225 {
+	overflow: visible;
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 230px;
+	top: 1727px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_bep {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 303px;
+	top: 1777px;
+	overflow: visible;
+}
+.Ellipse_40_beq {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_ber {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#cCc {
+	position: absolute;
+	left: 375px;
+	top: 1985px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Button_CTA {
+	position: absolute;
+	width: 166px;
+	height: 54px;
+	left: 1477px;
+	top: 481px;
+	overflow: visible;
+}
+.Rectangle_1090 {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Invest {
+	position: absolute;
+	left: 40px;
+	top: 11px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Button_CTA_bew {
+	position: absolute;
+	width: 212px;
+	height: 42px;
+	left: 779px;
+	top: 493px;
+	overflow: visible;
+}
+.Rectangle_1090_bex {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#I_m_streaming_now_ {
+	position: absolute;
+	left: 22px;
+	top: 10px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#ID628500 {
+	position: absolute;
+	width: 1920px;
+	height: 238px;
+	left: 0px;
+	top: 96px;
+	overflow: visible;
+}
+#kiyo_11_gallery {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 230px;
+	top: 1234px;
+	overflow: visible;
+}
+#ID65__Funded {
+	position: absolute;
+	left: 283px;
+	top: 1493px;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(177,215,121,1);
+}
+#Razer_Kiyo_Webcam {
+	position: absolute;
+	left: 258px;
+	top: 1251px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(177,215,121,1);
+}
+#Footer_1 {
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 2134px;
+	overflow: visible;
+}
+.Base {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CONTACT_US {
+	position: absolute;
+	left: 77px;
+	top: 69px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#_44_345_678_903_adobexd_mail_c {
+	position: absolute;
+	left: 285px;
+	top: 69px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SERVICES {
+	position: absolute;
+	left: 542px;
+	top: 70px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_Ordering___Payment_ {
+	position: absolute;
+	left: 723px;
+	top: 69px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#INFORMATION {
+	position: absolute;
+	left: 984px;
+	top: 69px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Work_With_US_Privacy_Policy_Te {
+	position: absolute;
+	left: 1203px;
+	top: 63px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#social {
+	position: absolute;
+	width: 262px;
+	height: 137px;
+	left: 1608px;
+	top: 63px;
+	overflow: visible;
+}
+#Symbol_11___1 {
+	position: absolute;
+	width: 47.909px;
+	height: 52px;
+	left: 214.092px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 52px;
+	left: 12.909px;
+	top: 0px;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 26.613px;
+	height: 50.961px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_12___1 {
+	position: absolute;
+	width: 62px;
+	height: 137px;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_393 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 137px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 60.534px;
+	height: 49.1px;
+	left: 0px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_13___1 {
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_46 {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Navigation_Bar {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Base_bfm {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BORROW {
+	position: absolute;
+	left: 349px;
+	top: 35px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#INVEST {
+	position: absolute;
+	left: 484px;
+	top: 35px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#REFER {
+	position: absolute;
+	left: 749px;
+	top: 35px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#DISCOVER {
+	position: absolute;
+	left: 606px;
+	top: 35px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Symbol_12___3 {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 1617px;
+	top: 37px;
+	overflow: visible;
+}
+.Rectangle_393_bfs {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 0px;
+}
+#Group_45 {
+	position: absolute;
+	width: 241px;
+	height: 70px;
+	left: 40px;
+	top: 13px;
+	overflow: visible;
+}
+#Group_18 {
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 70px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_212 {
+	overflow: visible;
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MOOLAH {
+	position: absolute;
+	left: 19px;
+	top: 9px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#logo_FINAL {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 118px;
+	height: 47px;
+	left: 1752px;
+	top: 25px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.604));
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1104 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#LOG_IN {
+	position: absolute;
+	left: 25px;
+	top: 13px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}

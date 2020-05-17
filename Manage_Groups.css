@@ -1,0 +1,1434 @@
+.mediaViewInfo {
+	--web-view-name: Manage Groups;
+	--web-view-id: Manage_Groups;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Manage_Groups;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Manage_Groups {
+	position: absolute;
+	width: 1920px;
+	height: 1960px;
+	background-color: rgba(101,97,125,1);
+	overflow: hidden;
+	--web-view-name: Manage Groups;
+	--web-view-id: Manage_Groups;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#ID628553 {
+	position: absolute;
+	width: 1920px;
+	height: 238px;
+	left: 0px;
+	top: 96px;
+	overflow: visible;
+}
+#LOL_Community_Gamers {
+	position: absolute;
+	left: 236px;
+	top: 411px;
+	overflow: visible;
+	width: 589px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(234,234,234,1);
+}
+#Group_77 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 236px;
+	top: 532px;
+	overflow: visible;
+}
+.Rectangle_1103 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1106 {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_ft {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_fu {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_fv {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ft {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_fu {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_fv {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_fw {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628500 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#edZ {
+	position: absolute;
+	left: 145px;
+	top: 258px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_78 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 602px;
+	top: 532px;
+	overflow: visible;
+}
+.Rectangle_1103_f {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_f {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_f {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_f {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_f {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ga {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628518 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Napchat {
+	position: absolute;
+	left: 115px;
+	top: 258px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_79 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 968px;
+	top: 532px;
+	overflow: visible;
+}
+.Rectangle_1103_ga {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_ga {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_gb {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_gc {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_gd {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ge {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628546 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Aryton {
+	position: absolute;
+	left: 128px;
+	top: 258px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_80 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 1334px;
+	top: 532px;
+	overflow: visible;
+}
+.Rectangle_1103_gi {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_gj {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_gk {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_gl {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_gm {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_gn {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628545 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#CedChua {
+	position: absolute;
+	left: 107px;
+	top: 258px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_81 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 236px;
+	top: 893px;
+	overflow: visible;
+}
+.Rectangle_1103_gr {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_gs {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_gt {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_gu {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_gv {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_gw {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID506837 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Parick {
+	position: absolute;
+	left: 130px;
+	top: 258px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_82 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 602px;
+	top: 893px;
+	overflow: visible;
+}
+.Rectangle_1103_g {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_g {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_g {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_g {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_g {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ha {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628546_g {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Prof__Pang {
+	position: absolute;
+	left: 100px;
+	top: 258px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_83 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 968px;
+	top: 893px;
+	overflow: visible;
+}
+.Rectangle_1103_ha {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_ha {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_hb {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_hc {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_hd {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_he {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#caspar_camille_rubin_oI6zrBj3n {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Cross {
+	position: absolute;
+	left: 132px;
+	top: 258px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_84 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 1334px;
+	top: 893px;
+	overflow: visible;
+}
+.Rectangle_1103_hi {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_hj {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_hk {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_hl {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_hm {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_hn {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628596 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Anna {
+	position: absolute;
+	left: 137px;
+	top: 258px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_85 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 236px;
+	top: 1254px;
+	overflow: visible;
+}
+.Rectangle_1103_hr {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_hs {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_ht {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_hu {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_hv {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_hw {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628607 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Goldin {
+	position: absolute;
+	left: 127px;
+	top: 258px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_86 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 602px;
+	top: 1254px;
+	overflow: visible;
+}
+.Rectangle_1103_h {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_h {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_h {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_h {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_h {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ia {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628594 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Cabana {
+	position: absolute;
+	left: 118px;
+	top: 258px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_87 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 968px;
+	top: 1254px;
+	overflow: visible;
+}
+.Rectangle_1103_ia {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1105_ia {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Avatar_ib {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_ic {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_id {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ie {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#ID628619 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#porcupine {
+	position: absolute;
+	left: 105px;
+	top: 258px;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_88 {
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 1334px;
+	top: 1254px;
+	overflow: visible;
+}
+.Rectangle_1103_ii {
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+.Path_223 {
+	overflow: visible;
+	position: absolute;
+	width: 341px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_ik {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+.Ellipse_40_il {
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+}
+.Union_12_im {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 65px;
+	top: 65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avatar_in {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 73px;
+	top: 50px;
+	overflow: visible;
+}
+#photo_2020_05_17_05_45_41 {
+	position: absolute;
+	width: 196px;
+	height: 196px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#David {
+	position: absolute;
+	left: 133px;
+	top: 258px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(38,153,251,1);
+}
+#Group_76 {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_67 {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Navigation_Bar {
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Base {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BORROW {
+	position: absolute;
+	left: 349px;
+	top: 41px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#INVEST {
+	position: absolute;
+	left: 484px;
+	top: 41px;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#REFER {
+	position: absolute;
+	left: 749px;
+	top: 41px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#DISCOVER {
+	position: absolute;
+	left: 606px;
+	top: 41px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	line-height: 16px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Symbol_12___3 {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 1617px;
+	top: 37px;
+	overflow: visible;
+}
+.Rectangle_393 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 0px;
+}
+#Group_45 {
+	position: absolute;
+	width: 241px;
+	height: 70px;
+	left: 40px;
+	top: 13px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Profile_Page__Gamer_.html;
+	cursor: pointer;
+}
+#Group_18 {
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 70px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_212 {
+	overflow: visible;
+	position: absolute;
+	width: 171px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MOOLAH {
+	position: absolute;
+	left: 19px;
+	top: 9px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#logo_FINAL {
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_57 {
+	position: absolute;
+	width: 118px;
+	height: 47px;
+	left: 1752px;
+	top: 25px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1104 {
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Sign_Out {
+	position: absolute;
+	left: 17px;
+	top: 13px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(234,234,234,1);
+}
+#lol_logo_rendered_hi_res {
+	position: absolute;
+	width: 647px;
+	height: 199px;
+	left: 637px;
+	top: 116px;
+	overflow: visible;
+}
+#Footer_1 {
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 1660px;
+	overflow: visible;
+}
+.Base_jb {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 306px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CONTACT_US {
+	position: absolute;
+	left: 77px;
+	top: 69px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#_44_345_678_903_adobexd_mail_c {
+	position: absolute;
+	left: 285px;
+	top: 69px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#SERVICES {
+	position: absolute;
+	left: 542px;
+	top: 70px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_Ordering___Payment_ {
+	position: absolute;
+	left: 723px;
+	top: 69px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#INFORMATION {
+	position: absolute;
+	left: 984px;
+	top: 69px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Work_With_US_Privacy_Policy_Te {
+	position: absolute;
+	left: 1203px;
+	top: 63px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#social {
+	position: absolute;
+	width: 262px;
+	height: 137px;
+	left: 1608px;
+	top: 63px;
+	overflow: visible;
+}
+#Symbol_11___1 {
+	position: absolute;
+	width: 47.909px;
+	height: 52px;
+	left: 214.091px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_392 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 52px;
+	left: 12.909px;
+	top: 0px;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 26.613px;
+	height: 50.961px;
+	left: 0px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_12___1 {
+	position: absolute;
+	width: 62px;
+	height: 137px;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_393_jn {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 137px;
+	left: 0px;
+	top: 0px;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 60.534px;
+	height: 49.1px;
+	left: 0px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_13___1 {
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 52px;
+	height: 52px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
